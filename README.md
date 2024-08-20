@@ -1,4 +1,4 @@
-# my_first_repo
+# My first repo! 
 
 Hey!
 Here I will store outcomes of my work!
